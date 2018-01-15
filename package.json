@@ -1,0 +1,17 @@
+{
+  "name": "mash_c",
+  "version": "1.0.0",
+  "description": "predicting situations about yourself application",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mash"
+  ],
+  "author": "curdarious bell",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
